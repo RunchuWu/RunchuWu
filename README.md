@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @RunchuWu
-- 👀 I’m interested in Programming, Music, Science
-- 🌱 I’m working on EdgeLLM
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me rachelwu312@gmail.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: quiet introspevtive funny
+- Hi, I’m @RunchuWu
+- There's not a lot to show here yet, profile under construction...
+- Stay tuned!
 
 <!---
 RunchuWu/RunchuWu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
