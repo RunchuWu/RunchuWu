@@ -1,6 +1,5 @@
 - Hi, I’m @RunchuWu
-- There's not a lot to show here yet, profile under construction...
-- Stay tuned!
+- Find my portfolio [here](https://runchu-s-portfolio-989724587145.us-west1.run.app/)!
 
 <!---
 RunchuWu/RunchuWu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
