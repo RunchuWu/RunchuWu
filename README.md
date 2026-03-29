@@ -1,5 +1,5 @@
 - Hi, I’m @RunchuWu
-- Find my portfolio [here](https://runchu-s-portfolio-989724587145.us-west1.run.app/)!
+- Find my portfolio [here](https://runchuwu.github.io/portfolio/)!
 
 <!---
 RunchuWu/RunchuWu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
